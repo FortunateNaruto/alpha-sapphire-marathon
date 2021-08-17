@@ -676,8 +676,6 @@ Heal to full.
 
 Pick up the Elixir.
 
-![Elixir location](elixir.png)
-
 - Swap Latias with Marshtomp.
 - Equip a Persim Berry on Latias if you have 2 or more left.
 - Teach Surf over Heal Pulse (slot 1).
@@ -741,17 +739,7 @@ Gym puzzle:
 - Dodge the trainer twice
 - Left then directly up
 
-![Winona puzzle pt. 1](winona-gym-1.png)
 
-![Winona puzzle pt. 2](winona-gym-2.png)
-
-![Winona puzzle pt. 3](winona-gym-3.png)
-
-![Winona puzzle pt. 4](winona-gym-4.png)
-
-![Winona puzzle pt. 5](winona-gym-5.png)
-
-![Winona puzzle pt. 6](winona-gym-6.png)
 
 :::::trainer[Leader Winona]
   :::pokemon[Swellow]
@@ -888,14 +876,11 @@ If in yellow health:
   - Latias has fainted.
   - You consider your Sp. Attack too low.
 
-  ![Mt. Pyre Rare Candy location](mt-pyre-rare-candy.png)
-
 :::
 
 :::if{source="Latias" condition="speed=(x / 26+ / 5-10) || spatk=(x / 21+ / 13-)" theme="info"}
   Get the Rare Candy at the tombstone.
 
-  ![Mt. Pyre Rare Candy location](mt-pyre-rare-candy.png)
 :::
 
 - _If Latias is fainted:_
