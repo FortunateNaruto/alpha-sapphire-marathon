@@ -49,18 +49,6 @@
   53 ->   8,    10,   1,    5,    4,    3
 :::
 
-:::pokemon[Poochyena]
-  - Tackle x2
-:::
-
-Mash B at Birch's lab until you refuse to give a nickname, then mash A. Go north.
-
-:::::trainer[Brendan]
-  :::pokemon[Treeko]
-    - Tackle x3 :info[99.3% range at 13- Attack (# / 31- / 19-)]{color=red}
-  :::
-:::::
-
 :::card
   Minimum stats at Lv. 6:
   - Attack: **14** (_13 is runnable, but not ideal._)
