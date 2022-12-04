@@ -1,4 +1,4 @@
-:::tracker{species="Mudkip" generation=6 baseStats="[[50, 70, 50, 50, 50, 40], [70, 85, 70, 60, 70, 50], [100, 110, 90, 85, 90, 60]]"}
+:::tracker{species="Mudkip" generation=6 baseStats="[[50, 70, 50, 50, 50, 40], [70, 85, 70, 60, 70, 50], [100, 110, 90, 85, 90, 60]] hpIV=21 attackIV=22 defenseIV=28 spAttackIV=2 spDefenseIV=10 speedIV=31 nature="Rash""}
 5: 
   5 ->	  0,    0,    0,    0,    0,    0 
   6 ->	  0,    1,    0,    0,    0,    1   #	Poochyena (1 Atk), Treecko (1 Spd)
